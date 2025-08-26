@@ -1,0 +1,17 @@
+body {
+      font-family:Courier New, sans-serif;
+            background-color: #fb7171;
+            margin: 0;
+            padding: 15px;
+}
+.menu-container {
+     background-color: whitesmoke;
+      box-shadow: black 0 0 10px; 
+      line-height: 1;
+    }
+    #heading h1 {
+        margin-bottom: 0.1em;        
+    }
+    #heading h3 {
+        margin-top: 0;
+    }
