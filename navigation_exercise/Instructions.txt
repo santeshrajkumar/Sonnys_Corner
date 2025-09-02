@@ -1,0 +1,22 @@
+Exercise 1: The Interactive Navigation Bar
+This exercise focuses on user action pseudo-classes (:hover, :active, :focus) and the state pseudo-class (:visited).
+
+Goal: Create a simple horizontal navigation bar where the links change appearance when the user interacts with them.
+
+Instructions:
+
+Create an HTML file with a <nav> element containing an unordered list (<ul>) of 5 list items (<li>). Each list item should contain a link (<a>) to a hypothetical page (e.g., #home, #about).
+
+Style the navigation bar with CSS to achieve the following:
+
+Remove the default bullet points and padding from the <ul>.
+
+Style the <a> tags to look like buttons: give them a background color (e.g., #333), a different text color (e.g., white), some padding, and remove the default underline.
+
+Use :hover to change the background color of a link when the user's mouse is over it.
+
+Use :active to make the link appear "pressed" (change the background color again) for a moment when it is clicked.
+
+Use :focus to provide a clear visual indicator (e.g., an outline) for keyboard users tabbing through the menu.
+
+Use :visited to subtly change the color of a link that has already been clicked.
